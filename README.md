@@ -1,7 +1,6 @@
 # History-Aware Chatbot with LLaMA 3.1 & Ollama
 
 📌 Overview
-
 This is a history-aware chatbot built using LLaMA 3.1 and Ollama, which maintains conversational context across multiple user interactions. The chatbot stores conversation history, allowing it to remember previous messages and provide more contextually relevant responses.
 
 
