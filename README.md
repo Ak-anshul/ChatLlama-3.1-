@@ -1,7 +1,8 @@
 # History-Aware Chatbot with LLaMA 3.1 & Ollama
 
 📌 Overview
-This is a history-aware chatbot built using LLaMA 3.1 and Ollama, which maintains conversational context across multiple user interactions. The chatbot stores conversation history, allowing it to remember previous messages and provide more contextually relevant responses.
+This is a history-aware chatbot built using LLaMA 3.1 and Ollama, which maintains conversational context across multiple user interactions. The chatbot stores conversation
+history, allowing it to remember previous messages and provide more contextually relevant responses.
 
 
 🚀 Features
@@ -17,7 +18,7 @@ Interactive UI: Uses Gradio for an easy-to-use web interface.
 
 📝 Example Conversation
 
-User: Hii.
+User: Hii
 Bot: Hi! It's nice to meet you. How can I assist you today?
 
 User: Myself Anshul Kumawat
