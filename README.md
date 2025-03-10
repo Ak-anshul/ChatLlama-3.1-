@@ -1,4 +1,4 @@
-##History-Aware Chatbot with LLaMA 3.1 & Ollama
+#History-Aware Chatbot with LLaMA 3.1 & Ollama
 
 📌 Overview
 
