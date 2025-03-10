@@ -17,7 +17,7 @@ Interactive UI: Uses Gradio for an easy-to-use web interface.
 
 📝 Example Conversation
 
-User: Hii
+User: Hii.
 Bot: Hi! It's nice to meet you. How can I assist you today?
 
 User: Myself Anshul Kumawat
